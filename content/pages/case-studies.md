@@ -48,7 +48,7 @@ Resources
 An Ethical Engineer? ({{% resource_link b59685c6-55d3-1e24-ca19-35d667177920 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-Pinker, Steven. "[The Moral Instinct](http://www.nytimes.com/2008/01/13/magazine/13Psychology-t.html)." New York Times, January 13, 2008.
+Pinker, Steven. "{{% resource_link "7a060398-f443-4e03-bd5d-62a2aa193055" "The Moral Instinct" %}}." New York Times, January 13, 2008.
 {{< tdclose >}}
 
 {{< trclose >}}
